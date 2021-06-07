@@ -1,0 +1,29 @@
+.projectImgContainer {
+  width: 400px;
+  height: 200px;
+  margin: 50px;
+  overflow: hidden;
+}
+
+.projectImgContainer img {
+  max-width: fit-content;
+  max-height: fit-content;
+}
+
+.projectPortfolioContainer {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+}
+
+@media screen and (max-width: 768px) {
+  .projectImgContainer {
+    width: 100%;
+    margin: 0;
+    padding: 50px;
+  }
+  .projectPortfolioContainer {
+    padding-top: 50%;
+  }
+}
