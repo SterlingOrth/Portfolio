@@ -12,7 +12,7 @@ function Qualification() {
     <div className="container" style={{ padding: "50px 0" }}>
       <div data-aos="flip-up">
         <SmallHeading text="Qualifications" />
-        <MediumHeading text={"Education"} />
+        <MediumHeading text={"Education"} style={{color: "white"}} />
       </div>
       <div className="flexRow flexColumn justify-sb align-center">
         <div>

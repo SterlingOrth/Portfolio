@@ -1,5 +1,5 @@
 import React from "react";
-import SmallHeading from "../Hero/UI/SmallHeading";
+import SmallHeading from "../Hero/UI/SmallHeading2";
 import MediumHeading from "../Hero/UI/MediumHeading";
 import Card from "../Hero/UI/Card";
 import { CircularProgressbar, buildStyles } from "react-circular-progressbar";
@@ -48,8 +48,8 @@ function Expertise(props) {
 
         <div data-aos="fade-up">
           {" "}
-          <p className="mtb-10 font-10 secondaryColor text-center">
-            React is Fun!
+          <p className="mtb-10 font-16 secondaryColor text-center">
+            FullStack Web Development
           </p>{" "}
         </div>
       </Card>

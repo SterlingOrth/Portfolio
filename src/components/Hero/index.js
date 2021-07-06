@@ -22,7 +22,7 @@ function Index() {
               <Button label="Hire Me" />
             </div>
             <div className="mlr-10">
-              <Button label="Download CV" inverse="true" />
+              <Button label="Download CV" inverse="true" href="https://bootcampspot.com/coursework/86180/show" download />
             </div>
           </div>
         </div>

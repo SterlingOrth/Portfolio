@@ -1,12 +1,11 @@
 import React from "react";
 import { colors } from "../../style";
-import Resume from "../../../assets/resume/Sterling Orth Resume.docx"
+import Projects from "../../Projects"
 
-function Button(props) {
+function Button2(props) {
   return (
     <a
-      href={Resume}
-      download
+      href="#"
       style={{
         boxSizing: "border-box",
         padding: "10px 20px",
@@ -27,4 +26,4 @@ function Button(props) {
   );
 }
 
-export default Button;
+export default Button2;

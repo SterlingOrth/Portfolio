@@ -5,7 +5,7 @@
 }
 
 body {
-  background: url(./assets/images/blue_white.jpeg);
+  background: url(./assets/images/blue_mountains.jfif);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -39,6 +39,9 @@ body {
   color: #233e8b;
 }
 
+.white {
+  color: white;
+}
 .grey {
   color: grey;
 }

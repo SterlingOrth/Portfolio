@@ -3,8 +3,9 @@ import Card from "../Hero/UI/Card";
 import SmallHeading from "../Hero/UI/SmallHeading";
 import MediumHeading from "../Hero/UI/MediumHeading";
 import Matrix from "../../assets/projects/Matrix.webp";
-import Button from "../Hero/UI/Button";
+import Button2 from "../Hero/UI/Button2";
 import "./style.css";
+import Projects from "../Projects"
 
 function LatestProjects() {
   return (
@@ -17,7 +18,7 @@ function LatestProjects() {
           <SmallHeading text="Portfolio" />
           <MediumHeading text="Latest Projects" />
           <div className="mtb-10 flexRow" style={{ justifyContent: "center" }}>
-            <Button label="Portfolios" />
+            <Button2 label="Portfolios" />
           </div>
         </div>
         <div data-aos="fade-up-left" className="projectImgContainer">

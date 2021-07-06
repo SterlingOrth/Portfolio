@@ -14,11 +14,11 @@ function Footer() {
         </div>
         <div className="footerMenus mtb-10">
           <nav>
-            <a href="#">Home</a>
-            <a href="#">About</a>
-            <a href="#">Portfolio</a>
-            <a href="#">Education</a>
-            <a href="#">Contact</a>
+            <a href="#" style={{color: "white"}}>Home</a>
+            <a href="#" style={{color: "white"}}>About</a>
+            <a href="#" style={{color: "white"}}>Portfolio</a>
+            <a href="#" style={{color: "white"}}>Education</a>
+            <a href="#" style={{color: "white"}}>Contact</a>
           </nav>
         </div>
         {/* <div>

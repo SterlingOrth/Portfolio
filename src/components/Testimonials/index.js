@@ -12,7 +12,7 @@ function Testimonials() {
               <span className="thirdColor"> Message me @ :</span>
             </p>
             <p className="uppercase text-center font-30 secondaryColor bold-600">
-              Ster8.orth@gmail.com
+              sterling.d.orth@gmail.com
             </p>
           </div>
         </Card>
