@@ -13,7 +13,7 @@ function LatestProjects() {
       className="container"
       style={{ marginTop: "50px", marginBottom: "50px" }}
     >
-      <div data-aos="fade-down" className="mtb-10">
+      <div data-aos="fade-down" className="mtb-10" id="portfolio">
       <SmallHeading text="Portfolio" />
       <MediumHeading text="Latest Projects" />
       </div>

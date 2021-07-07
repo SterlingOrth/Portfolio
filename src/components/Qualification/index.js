@@ -10,7 +10,7 @@ import "./style.css";
 function Qualification() {
   return (
     <div className="container" style={{ padding: "50px 0" }}>
-      <div data-aos="flip-up">
+      <div id="education" data-aos="flip-up">
         <SmallHeading text="Qualifications" />
         <MediumHeading text={"Education"} />
       </div>

@@ -5,7 +5,7 @@ import "../../components/style";
 
 function Index() {
   return (
-    <div className="container" style={{ marginTop: "70px" }}>
+    <div id="home" className="container" style={{ marginTop: "70px" }}>
       <div className="flexRow flexColumn justify-sb align-center">
         <div data-aos="fade-right">
           <p className="uppercase bold-500 ls-1 mtb-10">

@@ -82,7 +82,7 @@ function Specializing(props) {
   ];
   return (
     <div className="container">
-      <Card style={{ padding: "45px", width: "100%" }}>
+      <Card id="skills" style={{ padding: "45px", width: "100%" }}>
         <div data-aos="zoom-out-up">
           <SmallHeading2 text="My Skills" />
           <MediumHeading text="Specializing In" />
