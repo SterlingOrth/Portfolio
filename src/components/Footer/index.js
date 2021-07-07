@@ -15,8 +15,8 @@ function Footer() {
         <div className="footerMenus mtb-10">
           <nav>
             <a href="#" style={{color: "white"}}>Home</a>
-            <a href="#" style={{color: "white"}}>About</a>
-            <a href="#" style={{color: "white"}}>Portfolio</a>
+            <a href="/About" style={{color: "white"}}>About</a>
+            <a href="/Portfolio" style={{color: "white"}}>Portfolio</a>
             <a href="#" style={{color: "white"}}>Education</a>
             <a href="#" style={{color: "white"}}>Contact</a>
           </nav>

@@ -46,6 +46,10 @@ body {
   color: grey;
 }
 
+.underline {
+  text-decoration: underline;
+}
+
 .font-10 {
   font-size: 10px;
 }
@@ -126,6 +130,10 @@ body {
   padding: 10px 0;
 }
 
+.ptb-5 {
+  padding: 5px 0;
+}
+
 .plr-10 {
   padding: 0 10px;
 }
@@ -163,6 +171,11 @@ body {
   position: absolute;
   top: 0;
   border-radius: 10%;
+}
+
+.photo{
+  height: 100%;
+  width: 100%;
 }
 
 .wrap {
